@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\myml\\repo\\myml\\myml.csproj": {}
+    "G:\\myml\\repo\\myml\\MyML\\myml.csproj": {}
   },
   "projects": {
-    "G:\\myml\\repo\\myml\\myml.csproj": {
+    "G:\\myml\\repo\\myml\\MyML\\myml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\myml\\repo\\myml\\myml.csproj",
+        "projectUniqueName": "G:\\myml\\repo\\myml\\MyML\\myml.csproj",
         "projectName": "myml",
-        "projectPath": "G:\\myml\\repo\\myml\\myml.csproj",
+        "projectPath": "G:\\myml\\repo\\myml\\MyML\\myml.csproj",
         "packagesPath": "C:\\Users\\stani\\.nuget\\packages\\",
-        "outputPath": "G:\\myml\\repo\\myml\\obj\\",
+        "outputPath": "G:\\myml\\repo\\myml\\MyML\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

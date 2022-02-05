@@ -6,3 +6,7 @@ Currently not developped at all. Just for fun and something to add to my portfol
 Goals:
 
 - [ ] MNIST dataset type goal
+- [ ] Multi-Layer Perceptron
+- [ ] Convolutional NN
+- [ ] Learning algorithms
+- [ ] Gradient computation

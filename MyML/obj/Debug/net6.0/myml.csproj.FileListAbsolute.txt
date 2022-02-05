@@ -1,0 +1,12 @@
+G:\myml\repo\myml\MyML\bin\Debug\net6.0\myml.deps.json
+G:\myml\repo\myml\MyML\bin\Debug\net6.0\myml.dll
+G:\myml\repo\myml\MyML\bin\Debug\net6.0\ref\myml.dll
+G:\myml\repo\myml\MyML\bin\Debug\net6.0\myml.pdb
+G:\myml\repo\myml\MyML\obj\Debug\net6.0\myml.csproj.AssemblyReference.cache
+G:\myml\repo\myml\MyML\obj\Debug\net6.0\myml.GeneratedMSBuildEditorConfig.editorconfig
+G:\myml\repo\myml\MyML\obj\Debug\net6.0\myml.AssemblyInfoInputs.cache
+G:\myml\repo\myml\MyML\obj\Debug\net6.0\myml.AssemblyInfo.cs
+G:\myml\repo\myml\MyML\obj\Debug\net6.0\myml.csproj.CoreCompileInputs.cache
+G:\myml\repo\myml\MyML\obj\Debug\net6.0\myml.dll
+G:\myml\repo\myml\MyML\obj\Debug\net6.0\ref\myml.dll
+G:\myml\repo\myml\MyML\obj\Debug\net6.0\myml.pdb
