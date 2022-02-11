@@ -3,7 +3,7 @@ using myml.Activations;
 
 namespace myml.NN;
 
-public class SequentialLayer
+public class SequentialLayer : ILayer
 {
     private readonly int _in_size;
     private readonly int _out_size;
@@ -21,6 +21,16 @@ public class SequentialLayer
         for (var i = 0; i < _neurons.Length; i++)
         {
             _neurons[i] = Neuron.ReLU(in_size);
+        }
+    }
+
+    public float[] Parameters 
+    {
+        get 
+        { 
+            var parameters = new List<float>();
+            foreach (var neuron in _neurons) parameters.AddRange(neuron.Parameters);
+            return parameters.ToArray();
         }
     }
 
