@@ -2,7 +2,7 @@ using System;
 
 namespace myml.Activations;
 
-public class RectifiedLinear : IActivationFunction<float, float>
+public class RectifiedLinear : IActivationFunction
 {
     public float Apply(float input)
     {

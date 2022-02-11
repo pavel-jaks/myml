@@ -3,8 +3,8 @@ using myml;
 
 namespace myml.NN;
 
-public interface INeuralNetwork<IN, OUT>
+public interface INeuralNetwork
 {
-    ITensor<OUT> ApplyNetwork(ITensor<IN> example);
-    IEnumerable<ITensor<OUT>> ApplyBatch(IEnumerable<ITensor<IN>> examples);
+    Tensor ApplyNetwork(Tensor example);
+    IEnumerable<Tensor> ApplyBatch(IEnumerable<Tensor> examples);
 }

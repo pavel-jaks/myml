@@ -2,7 +2,7 @@ using myml;
 
 namespace myml.Activations;
 
-public interface IActivationFunction<IN, OUT>
+public interface IActivationFunction
 {
-    OUT Apply(IN input);
+    float Apply(float input);
 }

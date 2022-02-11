@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "myml": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "G:\\myml\\repo\\myml\\Console\\bin\\Debug\\net6.0\\Console.exe"
+    }
+  }
+}

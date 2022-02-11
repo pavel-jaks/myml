@@ -1,8 +1,8 @@
 using System;
 
-namespace myml.Agregations;
+namespace myml.Aggregations;
 
-public class WeighedSum<T> : IAgregation<T, float, float>
+public class WeighedSum : IAggregation
 {
     private readonly float[] _weights;
     private readonly int _length;
@@ -13,7 +13,7 @@ public class WeighedSum<T> : IAgregation<T, float, float>
         _length = weights.Length;
     }
 
-    public float Agregate(ITensor<T> tensor)
+    public float Agregate(Tensor tensor)
     {
         var shape = tensor.Shape;
         var res = 1;
@@ -21,11 +21,9 @@ public class WeighedSum<T> : IAgregation<T, float, float>
         if (res != _length) throw new ArgumentException("Given tensor of bad shape");
         var index = 0;
         double sum = 0;
-        foreach (var maybenumber in tensor.EnumerateAll())
+        foreach (var number in tensor.EnumerateAll())
         {
-            if (maybenumber is double number) 
-                sum += _weights[index] * number;
-            else throw new ArgumentException("Given tensor of bad type");
+            sum += _weights[index] * number;
             index++;
         }
         return (float)sum;

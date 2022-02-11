@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "908f3c25-e520-4a8c-978a-8a45eb3b1b2c": {
+      "ProjectGuid": "908f3c25-e520-4a8c-978a-8a45eb3b1b2c",
+      "DisplayName": "myml",
+      "ColorIndex": 0
+    },
+    "00c909ae-2a96-408e-a435-f6d3e2f9025a": {
+      "ProjectGuid": "00c909ae-2a96-408e-a435-f6d3e2f9025a",
+      "DisplayName": "Console",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,15 @@
+G:\myml\repo\myml\Console\bin\Debug\net6.0\Console.exe
+G:\myml\repo\myml\Console\bin\Debug\net6.0\Console.deps.json
+G:\myml\repo\myml\Console\bin\Debug\net6.0\Console.runtimeconfig.json
+G:\myml\repo\myml\Console\bin\Debug\net6.0\Console.dll
+G:\myml\repo\myml\Console\bin\Debug\net6.0\ref\Console.dll
+G:\myml\repo\myml\Console\bin\Debug\net6.0\Console.pdb
+G:\myml\repo\myml\Console\obj\Debug\net6.0\Console.csproj.AssemblyReference.cache
+G:\myml\repo\myml\Console\obj\Debug\net6.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+G:\myml\repo\myml\Console\obj\Debug\net6.0\Console.AssemblyInfoInputs.cache
+G:\myml\repo\myml\Console\obj\Debug\net6.0\Console.AssemblyInfo.cs
+G:\myml\repo\myml\Console\obj\Debug\net6.0\Console.csproj.CoreCompileInputs.cache
+G:\myml\repo\myml\Console\obj\Debug\net6.0\Console.dll
+G:\myml\repo\myml\Console\obj\Debug\net6.0\ref\Console.dll
+G:\myml\repo\myml\Console\obj\Debug\net6.0\Console.pdb
+G:\myml\repo\myml\Console\obj\Debug\net6.0\Console.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 namespace myml.Activations;
 
-public class None<T> : IActivationFunction<T, T>
+public class None : IActivationFunction
 {
-    public T Apply(T input)
+    public float Apply(float input)
     {
         return input;
     }
